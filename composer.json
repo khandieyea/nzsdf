@@ -1,0 +1,14 @@
+{
+
+    "name": "khandieyea/nzsdf",
+    "license": "GPLv2",
+    "autoload": {
+       "psr-4": {
+           "": "src/"
+       }
+   	},
+    "require": {
+        "php": ">=5.5.9"
+    }
+
+}
